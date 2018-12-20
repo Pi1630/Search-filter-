@@ -6,12 +6,6 @@ import AvatarListScreen from './src/avatarListScreen'
 
 export default class App extends Component {
 
-  constructor(){
-    super()
-    this.state={
-      val:'hey there'
-    }
-  }
   render() {
     return (
        <AvatarListScreen/>
