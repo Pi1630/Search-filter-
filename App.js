@@ -4,7 +4,6 @@ import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View,TextInput} from 'react-native';
 import AvatarListScreen from './src/avatarListScreen'
 
-//type Props = {}; what is this
 export default class App extends Component {
 
   constructor(){
